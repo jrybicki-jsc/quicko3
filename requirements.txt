@@ -1,12 +1,14 @@
 asn1crypto==1.2.0
 attrs==19.3.0
 backcall==0.1.0
+basemap==1.2.0
 bleach==3.1.0
 boto3==1.9.234
 botocore==1.12.234
 certifi==2019.9.11
 cffi==1.13.0
 cryptography==2.8
+cycler==0.10.0
 decorator==4.4.0
 defusedxml==0.6.0
 docutils==0.15.2
@@ -25,7 +27,9 @@ jupyter==1.0.0
 jupyter-client==5.3.4
 jupyter-console==6.0.0
 jupyter-core==4.6.0
+kiwisolver==1.1.0
 MarkupSafe==1.1.1
+matplotlib==3.1.1
 mistune==0.8.4
 mkl-fft==1.0.14
 mkl-random==1.1.0
@@ -46,7 +50,10 @@ ptyprocess==0.6.0
 pycparser==2.19
 Pygments==2.4.2
 pyOpenSSL==19.0.0
+pyparsing==2.4.2
+pyproj==1.9.6
 pyrsistent==0.15.4
+pyshp==2.1.0
 PySocks==1.7.1
 python-dateutil==2.8.0
 pytz==2019.3
